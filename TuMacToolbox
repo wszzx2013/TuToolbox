@@ -1,5 +1,8 @@
+#!/bin/bash
+# bash -c ($"https://github.com/wszzx2013/TuToolbox/raw/main/TuMacToolbox")
+main() {
+  clear
+  jb=TuMacToolbox
 
-clear
-jb=TuMacToolbox
-
-echo $jb
+  echo $jb
+}
