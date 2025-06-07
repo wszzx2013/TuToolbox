@@ -1,5 +1,5 @@
 #!/bin/bash
-# curl -s https://github.com/wszzx2013/TuToolbox/raw/main/TuMacToolbox
+# cd ~/ && curl -s "https://github.com/wszzx2013/TuToolbox/raw/main/TuMacToolbox" | bash </dev/tty
 main() {
   clear
   echo -e "TuMacToolbox"
