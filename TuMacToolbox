@@ -2,6 +2,5 @@
 # curl -s https://github.com/wszzx2013/TuToolbox/raw/main/TuMacToolbox
 main() {
   clear
-
-  echo "TuMacToolbox"
+  echo -e "TuMacToolbox"
 }
